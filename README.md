@@ -1,0 +1,1 @@
+BKL-AL00-AL20-TL10-L09_OR_EMUI8.0.0_opensource
